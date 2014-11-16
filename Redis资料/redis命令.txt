@@ -1,0 +1,6 @@
+查看所有key：keys *
+查看见树木：dbsize
+日志：slowlog get
+清空：flushdb
+多步操作：multi
+自增：incr 
